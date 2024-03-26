@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=sAnHM4D9e7U&t=2071s
 
 https://raw.githubusercontent.com/RodrigoMvs123/1-hour-2D-Breakout-in-JavaScript/main/README.md
 
+https://github.com/RodrigoMvs123/1-hour-2D-Breakout-in-JavaScript/blame/main/README.md
+
 Visual Studio Code
 Explorer
 Open Editors
