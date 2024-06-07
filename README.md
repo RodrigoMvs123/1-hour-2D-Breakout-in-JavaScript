@@ -1,4 +1,5 @@
-# 1-hour-2D-Breakout-in-JavaScript
+
+## 1-hour-2D-Breakout-in-JavaScript
 
 https://www.youtube.com/watch?v=sAnHM4D9e7U&t=2071s 
 
@@ -6,6 +7,9 @@ https://raw.githubusercontent.com/RodrigoMvs123/1-hour-2D-Breakout-in-JavaScript
 
 https://github.com/RodrigoMvs123/1-hour-2D-Breakout-in-JavaScript/blame/main/README.md
 
+
+## Source Code
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -27,7 +31,9 @@ index.html
 
 </body>
 </html>
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -35,7 +41,9 @@ index.html
 styles.css
 
 styles.css
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -44,7 +52,9 @@ styles.css
 app.js
 
 app.js
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -70,7 +80,9 @@ index.html
 
 </body>
 </html>
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -86,7 +98,9 @@ styles.css
     border: solid 1px black;
     margin-top: 100px;
 }
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -111,7 +125,9 @@ let ballCurrentPosition = ballStart
 // add user
 const user = document.createElement('div')
 user.classList.add('user')
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -134,7 +150,9 @@ styles.css
     height: 20px;
     background-color: blue;
 }
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -170,8 +188,9 @@ function drawUser() {
     user.style.left = currentPosition[0] + 'px'
     user.style.bottom = currentPosition[1] + 'px'
 }
+```
 
-
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -202,7 +221,9 @@ styles.css
     border-radius: 10;
     background-color: red;
 }
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -282,7 +303,9 @@ function drawBall() {
     ball.style.left = ballCurrentPosition[0] + 'px'
     ball.style.bottom = ballCurrentPosition[1] + 'px'
 }
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -320,7 +343,9 @@ styles.css
     border-radius: 10;
     background-color: red;
 }
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -511,5 +536,4 @@ function changeDirection() {
         return
     }
 }
-
-
+```
